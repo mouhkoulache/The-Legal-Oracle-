@@ -1,0 +1,13 @@
+# Ignore Flutter build files
+**/build/
+**/.dart_tool/
+**/.pub-cache/
+
+# Ignore Python virtual environments and cache
+**/venv/
+**/.venv/
+**/__pycache__/
+**/*.pyc
+
+# Ignore ZIP files
+*.zip
